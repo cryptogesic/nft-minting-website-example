@@ -5,7 +5,7 @@ import ExobitsABI from '../contract/ReExoBits.json';
 
 export default function Login(props) {
 
-	const contractAddress = "0xE7046373c0D9e74529362B0A98F9F7784bF46B4D";
+	const contractAddress = "0x5C1B3f5486cf342e491Ce316e98281822b800979";
 
 	const DoConnect = async () => {
 
